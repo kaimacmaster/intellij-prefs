@@ -15,7 +15,8 @@
     <option name="tabOpacity" value="22" />
     <option name="settingsSelectedTab" value="2" />
     <option name="tabsHeight" value="24" />
-    <option name="accentColor" value="009688" />
+    <option name="accentColor" value="ff9800" />
+    <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="-6ad165e6:1689a71c81e:-8000" />
     <option name="version" value="3.5.0.1" />
   </component>
